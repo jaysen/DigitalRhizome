@@ -1,7 +1,9 @@
-# Public Website
-Source for http://digitalrhizome.net 
-
-
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
 
 ## DigitalRhizome's Public Software Projects:
 
@@ -16,7 +18,3 @@ Source for http://digitalrhizome.net
 
 ### Public Documentation :
 * PublicText - a publicly owned repository of anything worth sharing and improving upon - OpenTextbooks, Technical Howto's and self documented Public Projects.
-
-
-
-
