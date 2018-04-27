@@ -4,7 +4,7 @@ title: zomeworks/zometools
 category: public
 ---
 
-A software experiment to integrate, navigate and manage information from multiple [rhizomic](rhizomes) data sources or zomes - such as public and personal wikis / sub-webs ... for communities, public and personal contexts
+A software experiment to integrate, navigate and manage information from multiple [rhizomic](/about/rhizomes) data sources or zomes - such as public and personal wikis / sub-webs ... for communities, public and personal contexts
 
 ### concept / features
 * universal multi-zome UI - that deals with multiple information sources
