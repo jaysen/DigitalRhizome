@@ -5,14 +5,16 @@
 layout: page
 ---
 
-### Professional Services:
-Offering [professional software services](services) - see our [project portfolio](projects)
+DigitalRhizome is a [worker-owned collective](about/worker-owned) offering digital tools and services. 
+
+### Some of the things we do:
+* Application development 
+* Web design/development/admin
+* Software/tech consulting and support
+
+see our [list of projects](projects) and some of the ideas we have for [public information infrastructure](publicwork)
 
 
-### Public Projects:
-And working on [public information infrastructure](publicwork)
 
-
-<p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
 
 
