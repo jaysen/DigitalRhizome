@@ -1,21 +1,29 @@
 ---
 layout: page
-title: zomeworks
+title: zomeworks/zometools
 category: public
 ---
 
 A software experiment to integrate, navigate and manage information from multiple [rhizomic](rhizomes) data sources or zomes - such as public and personal wikis / sub-webs ... for communities, public and personal contexts
 
-* universal multi-zome UI - that deal with multiple information sources
+### concept / features
+* universal multi-zome UI - that deals with multiple information sources
+* visualising zome/networks/subzomes
+* interwiki like sub-zomes / inter-zomes - see [Federated Wikis](http://wiki.c2.com/?FederatedWikis)
 * simple text standard for rhizomic data sources/structures (tags, attributes, dictionaries, link weights)
-* tag/set arithmetic across and between zomes(tag1 + tag2)
-* zero-privacy public record for public contexts, trust handling community contexts, and secure private contexts
+* tag/set arithmetic
+* write interfaces to integrate any data source that can be represented as a zome (wikis, the web)
+* zero-privacy public record for public contexts, trust handling in community contexts, and secure private context
 * community tooling in UI ...
-    * version control, immutable records
+    * version control, immutable 
+    * identity management   
     * reputation systems - trust handling
     * conflict resolution - forking - community forking - visibility - linking 
+    * consensus tools
     * bounties/rewards - new-work - digital citizenry 
-* sub-zomes / inter-zomes
+* intelligent agent - crawling zomes - organising and indexing
 
+### posts
 
-...
+[Why we need a zero-privacy, completely transparent public aspect to our digital life - as well as separate, cryptographically secure private lives.](tbd)
+
