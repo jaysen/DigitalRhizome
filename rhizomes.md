@@ -8,8 +8,8 @@ Rhizome is a term used to describe the relations and connectivity of things. A h
 
 “Rhizome” referring to a relation like that of roots. They spread underground with no direction, no beginning, and no end. They are dispersed. It is opposed to the idea of a tree which has a starting point, and from there branches out in a predictable path.
 
-----
 
+...
 
 
 The pattern repeatedly emerges throughout natural and designed systems:
