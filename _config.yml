@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DigitalRhizome.net
-email: webmaster@DigitalRhizome.net
+title: digitalrhizome.net
+email: webmin@digitalrhizome.net
 description: >- # this means to ignore newlines until "baseurl:"
- Public website for DigitalRhizome - a workers collective offering software consulting services and working on public information infrastructure.
+ a workers collective offering software consulting services and working on public information infrastructure.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://digitalrhizome.net" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: digitalrhizome
+github_username:  zomeworks
 
 # Build settings
 markdown: kramdown
@@ -39,3 +39,16 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+collections_dir: collections
+
+collections:
+
+  pages:
+    output: true
+    permalink: :name.html
+  projects:
+    output: true
+    permalink: /projects/:name.html
+  members:
