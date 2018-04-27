@@ -9,7 +9,7 @@ A set of tools to integrate, navigate and manage information from multiple [rhiz
 ### concept / features
 * universal multi-zome UI - that works with multiple information sources 
     * visualising zomes/subzomes
-    * interfaces to integrate any data source that can be represented as a zome (wikis, web, social software)
+    * plugin architecture to integrate any data source that can be represented as a zome (wikis, web, social software)
     * interwiki like -- see [Federated Wikis](http://wiki.c2.com/?FederatedWikis)
 * simple text standard for rhizomic data sources/structures (tags, attributes, dictionaries, link weights)
 * community tooling in UI ...
