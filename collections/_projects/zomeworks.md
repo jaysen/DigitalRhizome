@@ -4,7 +4,7 @@ title: zomeworks/zometools
 category: public
 ---
 
-A set of tools to integrate, navigate and manage information from multiple [rhizomic](/about/rhizomes) data sources (zomes?) - such as public and personal wikis / web communities / social networks
+A set of tools to integrate, navigate and manage information from multiple [rhizomic](/about/rhizomes) data sources (zomes?) - such as public and personal wikis / web networks / community structure / social networks / folksonomies / concept-nets
 
 ### concept / features
 * universal multi-zome UI - that works with multiple information sources 
