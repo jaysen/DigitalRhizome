@@ -16,7 +16,7 @@
 title: digitalrhizome.net
 email: webmin@digitalrhizome.net
 description: >- # this means to ignore newlines until "baseurl:"
- a workers collective offering software consulting services and working on public information infrastructure.
+ a new-work software services collective
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://digitalrhizome.net" # the base hostname & protocol for your site
 twitter_username: digitalrhizome

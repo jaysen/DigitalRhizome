@@ -5,15 +5,14 @@
 layout: page
 ---
 
-DigitalRhizome is a [worker-owned collective](about/worker-owned) offering digital tools and services. 
+The Digital Rhizome is a small new-work collective focused on delivering digital tools, support and services. 
+These include the development of custom apps and websites, turn-key software solutions and a growing list of technical services.
 
-### Some of the things we do:
-* Application development 
-* Web design/development/admin
-* Software/tech consulting and support
+We're also dreaming [public information infrastructure](/projects/zomeworks).
 
-see our [list of projects](projects) and some of the ideas we have for [public information infrastructure](publicwork)
+...
 
+Find out more [about us](/about/) and checkout our [projects page](/projects)
 
 
 

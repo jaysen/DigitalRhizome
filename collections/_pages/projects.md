@@ -3,13 +3,24 @@ layout: page
 title: projects
 ---
 
-### project listing
-Wait for it - we'll fill in the details of existing projects here soon
+- [PPLAAF](http://pplaaf.net){:target="_blank"} - web work, technical support
+- [Africans-Rising](https://africans-rising.org){:target="_blank"} - web work, tech support
+- FNB - software development/consultation
+- [WorkersCollege](https://workerscollege.co.za/){:target="_blank"} - web and student info systems
+- EarthLife Jhb - web work, technical support, linux training
+- [SADC-WE-WANT](http://sadc-we-want.org/){:target="_blank"} - web design
+- [Meridian Training](http://liminelegalapps.co.za/){:target="_blank"} - bespoke app development
 
-### some of the clients we've worked for
-pplaaf, fnb, africans-rising, earthlife, workerscollege ...
+### services:
+- Application development - mobile and multi-platform desktop apps
+- Web design & development 
+- Web hosting, management & admin
+- Open Software Solutions
+- Software Consulting
+- Technical support and services
 
-### and some of the things we do:
-* Application development 
-* Web design/development/admin
-* Software/tech consulting and support
+
+### public software:
+* [ZomeWorks](/projects/zomeworks) - software to integrate, navigate and manage multiple [rhizomic](about/rhizomes) information sources 
+* [PublicText](publictext.net) - a publicly owned repository of anything worth sharing and improving upon - OpenTextbooks, Technical Howto's and self documented public projects.
+* the OpenTeach idea
