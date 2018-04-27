@@ -5,7 +5,7 @@ title: projects
 
 - [PPLAAF](http://pplaaf.net){:target="_blank"} - web work, technical support
 - [Africans-Rising](https://africans-rising.org){:target="_blank"} - web work, tech support
-- FNB - software development/consultation
+- FNB - software development/consulting
 - [WorkersCollege](https://workerscollege.co.za/){:target="_blank"} - web and student info systems
 - EarthLife Jhb - web work, technical support, linux training
 - [SADC-WE-WANT](http://sadc-we-want.org/){:target="_blank"} - web design
