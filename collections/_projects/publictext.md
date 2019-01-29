@@ -38,4 +38,4 @@ Visualising community functionality:
 
 
 ## websites/sub-projects
-* [PublicText.net](publictext.net) - a publicly owned repository of anything worth sharing and improving upon - OpenTextbooks, Technical Howto's and self documented public projects.
+* [PublicText.net](http://publictext.net) - a publicly owned repository of anything worth sharing and improving upon - OpenTextbooks, Technical Howto's and self documented public projects.

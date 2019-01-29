@@ -3,7 +3,7 @@ layout: page
 title: projects
 ---
 
-- [PPLAAF](http://pplaaf.net){:target="_blank"} - web work, technical support
+- [PPLAAF](http://pplaaf.org){:target="_blank"} - web work, technical support
 - [Africans-Rising](https://africans-rising.org){:target="_blank"} - web work, tech support
 - FNB - software development/consulting
 - [WorkersCollege](https://workerscollege.co.za/){:target="_blank"} - web and student info systems

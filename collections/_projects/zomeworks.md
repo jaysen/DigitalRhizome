@@ -26,5 +26,7 @@ A set of tools to integrate, navigate and manage information from multiple [rhiz
 
 ### writing
 
+(upcoming...)
+
 [Why we need a zero-privacy, completely transparent public aspect to our digital life - as well as separate, cryptographically secure private lives.](/public/2018/04/26/online-public-private.html)
 
