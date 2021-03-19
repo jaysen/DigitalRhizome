@@ -4,6 +4,9 @@ title: about us
 permalink: /about/
 ---
 
+The Digital Rhizome is a very small new-work collective - with individual workers spread between Capetown, Durban and Johannesburg (ZA)
+We're focused on delivering digital tools, support and services. 
+
 
 ## contact us
 - [info@digitalrhizome.net](mailto: info@digitalrhizome.net)
@@ -11,6 +14,6 @@ permalink: /about/
 - [@digitalrhizome on twitter](https://twitter.com/digitalrhizome)
 
 
-## Rhizomes
+## rhizomes
 [What about rhizomes?](/about/rhizomes)
 

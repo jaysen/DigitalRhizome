@@ -13,7 +13,8 @@ These include the development of custom apps and websites, turn-key software sol
 
 We also dream public information infrastructure. 
 
-------
+
+
 [More About](/about/) | [Projects](/projects)
 
 
