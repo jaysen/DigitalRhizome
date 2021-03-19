@@ -5,12 +5,18 @@
 layout: page
 ---
 
-The Digital Rhizome is a small new-work collective focused on delivering digital tools, support and services. 
-These include the development of custom apps and websites, turn-key software solutions and a growing list of technical services.
 
-...
+The Digital Rhizome is a very small new-work collective - with individual workers spread between Capetown, Durban and Johannesburg (ZA)
+We're focused on delivering digital tools, support and services. 
 
-Find out more [about us](/about/) and checkout our [projects page](/projects)
+These include the development of custom apps and websites, turn-key software solutions and general technical services
+
+We also dream public information infrastructure. 
+
+------
+[More About](/about/) | [Projects](/projects)
+
+
 
 
 
