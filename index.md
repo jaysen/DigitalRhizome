@@ -13,12 +13,12 @@ These include the development of custom apps and websites, turn-key software sol
 
 We also dream public information infrastructure. 
 
+## the rhizome
+[What about rhizomes?](/about/rhizomes)
 
-
-[More About](/about/) | [Projects](/projects)
-
-
-
-
+## contact us
+- [info@digitalrhizome.net](mailto: info@digitalrhizome.net)
+- [facebook](https://www.facebook.com/digitalrhizome)
+- [@digitalrhizome on twitter](https://twitter.com/digitalrhizome)
 
 

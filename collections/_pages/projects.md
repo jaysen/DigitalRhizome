@@ -8,7 +8,7 @@ title: projects
 - [Meridian Training](http://liminelegalapps.co.za/){:target="_blank"} - bespoke app development
 - Akhile Digital - software development/consulting
 
-### services:
+## services:
 - Application development - mobile and multi-platform desktop apps
 - Web design & development 
 - Web hosting, management & admin
