@@ -17,12 +17,6 @@ title: projects
 - Technical support and services
 
 
-### public software:
-* [PublicText](/projects/publictext) - an interface for digital citizenry
-* [ZomeWorks](/projects/zomeworks) - software to integrate, navigate and manage multiple [rhizomic](about/rhizomes) information sources 
-* the OpenTeach idea
-
-
 <br/>
 <br/>
 ([view this web on Github](https://github.com/jaysen/digitalrhizome.net){:target="_blank"})

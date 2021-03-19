@@ -8,8 +8,6 @@ layout: page
 The Digital Rhizome is a small new-work collective focused on delivering digital tools, support and services. 
 These include the development of custom apps and websites, turn-key software solutions and a growing list of technical services.
 
-We're also dreaming [public information infrastructure](/projects/zomeworks).
-
 ...
 
 Find out more [about us](/about/) and checkout our [projects page](/projects)
